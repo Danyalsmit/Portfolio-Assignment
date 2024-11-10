@@ -75,7 +75,7 @@ const ProjectSection = () => {
                   className="absolute inset-0 w-full h-full object-cover object-center"
                   src="https://dummyimage.com/603x363"
                 /> */}
-                <div className="px-8 h-[258px] py-10 relative w-full border-4 border-gray-800 text-white bg-[#2d0055]">
+                <div className="px-8 py-10 relative w-full border-4 border-gray-800 text-white bg-[#2d0055]">
                   <h1 className="tracking-widest text-sm title-font font-medium text-indigo-400 mb-1">
                     E-COMMERCE
                   </h1>
@@ -86,7 +86,7 @@ const ProjectSection = () => {
                     Your one-stop shop for the latest trends and unbeatable
                     deals, delivered right to your door.
                   </p>
-                  <button className="border px-8 mt-5">
+                  <button className="border px-8 mt-4">
                     <a href="https://bzarapp.vercel.app/">Demo</a>
                   </button>
                 </div>
