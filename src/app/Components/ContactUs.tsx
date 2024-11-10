@@ -13,8 +13,8 @@ const ContactUs = () => {
               Contact Us
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-              Have questions or need assistance? Get in touch with us – we're
-              here to help.
+              Have questions or need assistance Get in touch with us we re here
+              to help.
             </p>
           </div>
           <div className="lg:w-1/2 md:w-2/3 mx-auto">

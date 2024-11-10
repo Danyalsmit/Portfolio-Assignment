@@ -1,6 +1,4 @@
 import React from "react";
-import Project1 from "../Assets/project1.png";
-import Project2 from "../Assets/project2.png";
 
 const ProjectSection = () => {
   return (
