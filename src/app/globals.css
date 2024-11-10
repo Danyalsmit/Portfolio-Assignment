@@ -13,6 +13,9 @@
     --foreground: #ededed;
   }
 }
+html {
+  scroll-behavior: smooth;  /* Yeh smooth scrolling ensure karega */
+}
 
 body {
   color: var(--foreground);

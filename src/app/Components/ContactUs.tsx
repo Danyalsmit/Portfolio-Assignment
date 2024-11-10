@@ -3,7 +3,8 @@ const ContactUs = () => {
   return (
     <>
       <section
-        className="text-gray-400 body-font relative"
+        id="contact"
+        className="contact-us text-gray-400 body-font relative"
         style={{ backgroundColor: "#0f172a" }}
       >
         <div className="container px-5 py-24 mx-auto">
@@ -12,8 +13,8 @@ const ContactUs = () => {
               Contact Us
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-              Whatever cardigan tote bag tumblr hexagon brooklyn aymmetrical
-              gentrify.
+              Have questions or need assistance? Get in touch with us – we're
+              here to help.
             </p>
           </div>
           <div className="lg:w-1/2 md:w-2/3 mx-auto">
@@ -58,10 +59,10 @@ const ContactUs = () => {
               </div>
               <div className="p-2 w-full">
                 <button className="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                  Button
+                  Submit
                 </button>
               </div>
-              <div className="p-2 w-full pt-8 mt-8 border-t border-gray-800 text-center">
+              {/* <div className="p-2 w-full pt-8 mt-8 border-t border-gray-800 text-center">
                 <a className="text-indigo-400">example@email.com</a>
                 <p className="leading-normal my-5">
                   49 Smith St.
@@ -127,7 +128,7 @@ const ContactUs = () => {
                     </svg>
                   </a>
                 </span>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
